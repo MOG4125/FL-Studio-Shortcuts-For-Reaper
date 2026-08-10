@@ -1,0 +1,18 @@
+@description FL Studio Keyboard Shortcut Layout Map
+@version 1.0
+@author YourName
+@about
+  Swaps REAPER's core layout to match FL Studio's key workflow (F5 Playlist, F6 Media Explorer, F7 Piano Roll, F8 FX Browser).
+@provides
+  [main] .
+
+# REAPER Keymap File for FL Studio Profile
+KEY 1 114 40078 0  # F5 opens Main Arrange / Playlist View
+KEY 1 115 50124 0  # F6 opens Media Explorer / Sound Pack Picker
+KEY 1 116 40716 0  # F7 opens MIDI Editor / Piano Roll
+KEY 1 117 41074 0  # F8 opens FX Browser / Plugin Picker
+KEY 1 113 40044 0  # F2 opens Item Properties
+KEY 1 119 40293 0  # F10 opens Track Routing Matrix
+KEY 1 9 40015 0    # Tab cycles window views
+KEY 5 82 1013 0    # Ctrl + R starts Recording
+KEY 5 66 40036 0   # Ctrl + B toggles Snapping / Grid lines
