@@ -7,7 +7,7 @@
         <description><![CDATA[Swaps REAPER's core layout to match FL Studio's key workflow (F5 Playlist, F6 Media Explorer, F7 Piano Roll, F8 FX Browser).]]></description>
       </metadata>
       <version name="1.0" author="MOG4125" time="2026-08-10T00:00:00Z">
-        <source main="main">https://github.com</source>
+        <source main="main">https://githubusercontent.com/MOG4125/FL-Studio-Shortcuts-For-Reaper/raw/master/FL_Studio_Shortcuts.ReaperKeyMap
       </version>
     </reapack>
   </category>
