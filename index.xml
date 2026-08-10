@@ -18,7 +18,7 @@
         <description><![CDATA[A panic switch tool to safely clear out imported hotkeys and restore default keybinds.]]></description>
       </metadata>
       <version name="1.0" author="MOG4125" time="2026-08-10T00:00:00Z">
-        <source main="main">https://github.com</source>
+        <source main="main">https://githubusercontent.com/MOG4125/FL-Studio-Shortcuts-For-Reaper/raw/master/Wipe_FL_Shortcuts.lua
       </version>
     </reapack>
   </category>
