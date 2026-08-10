@@ -1,23 +1,3 @@
-# ReaPack Repository Template
+# How To Use/Install
 
-A template for GitHub-hosted ReaPack repositories with automated
-[reapack-index](https://github.com/cfillion/reapack-index)
-running from GitHub Actions.
-
-Replace the name of the repository in [index.xml](/index.xml) when using this template.
-This will be the name shown in ReaPack.
-
-```xml
-<index version="1" name="Name of your repository here">
-```
-
-Replace the contents of this file ([README.md](/README.md)).
-This will be the text shown when using ReaPack's "About this repository" feature.
-
-reapack-index looks for package files in subfolders.
-The folder tree represents the package categories shown in ReaPack.
-
-Each package file is expected to begin with a metadata header.
-See [Packaging Documentation](https://github.com/cfillion/reapack-index/wiki/Packaging-Documentation) on reapack-index's wiki.
-
-The URL to import in ReaPack is [https://github.com/`<your username>`/`<repository name>`/raw/master/index.xml](https://github.com/cfillion/reapack-repository-template/raw/master/index.xml).
+To install this keymap for reaper that simulates the shortcuts in fl studio, click on actions and go to show action list, click new action and select the Wipe_FL_Shortcuts.lua file which allows you to take you back to the default shortcuts in reaper and gives you a list of the shortcuts in this keymap. Then, still in the action list, click the Key Map button and select the FL_Studio_Shortcuts.ReaperKeyMap file, it won’t show anything but it will load the shortcuts.
